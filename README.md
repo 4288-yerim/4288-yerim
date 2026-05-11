@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats-blue-omega-16.vercel.app/api?username=4288-yerim&show_icons=true&theme=radical)
 
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=4288-yerim&show_icons=true&theme=radical)
+
 <!--
 **4288-yerim/4288-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
