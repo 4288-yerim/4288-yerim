@@ -1,6 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+
 ## Hi there 👋
-
-
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4288-yerim&layout=compact&theme=radical)
 
