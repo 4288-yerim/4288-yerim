@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Yerim's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=180&section=header&text=Yerim's%20GitHub&fontSize=42&fontAlignY=35" />
 
 ## Hi there 👋
 
