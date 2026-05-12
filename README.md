@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=180&section=header&text=Yerim's%20GitHub&fontSize=42&fontAlignY=35" />
 
-## Hi there 👋
+## 📌About Me
 
 ## 🛠Tech Stack
 
