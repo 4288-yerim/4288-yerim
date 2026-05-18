@@ -13,14 +13,21 @@
 
 **APIs & Tools**
 <img src="https://img.shields.io/badge/Google Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/PortOne-F73131?style=for-the-badge&logo=paypay&logoColor=white"> <img src="https://img.shields.io/badge/Coolsms-0052CC?style=for-the-badge&logo=messagebird&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+---
+
 ## 📁 Project
+
+---
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4288-yerim&layout=compact&theme=radical)
 
+---
+
 ## 📩 Contact
 
-
+---
 
 <!--
 **4288-yerim/4288-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
