@@ -11,7 +11,7 @@
 ---
 
 ## 📁 Project
-[내 프로젝트](https://github.com/Medo-skb/UNIPET)
+[유니펫 - 반려동물 통합사이트](https://github.com/Medo-skb/UNIPET)
 
 ---
 
