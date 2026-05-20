@@ -3,6 +3,7 @@
 
 
 ## 📌 About Me
+안녕하세요. 김예림입니다.
 
 ---
 
@@ -13,7 +14,8 @@
 ## 📁 Project
 [유니펫 - 반려동물 통합사이트](https://github.com/Medo-skb/UNIPET)  
 Spring boot + MySQL + Vue3 팀 프로젝트
- - 메인페이지, 사업자 & 관리자 페이지, header & footer, css
+ - 메인페이지, header & footer, css 구현
+ - 사업자 & 관리자 페이지, AI 챗봇 구현
 
 
 ---
