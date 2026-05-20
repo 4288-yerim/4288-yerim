@@ -25,10 +25,6 @@ Spring boot + MySQL + Vue3 팀 프로젝트
 
 ---
 
-## 📩 Contact
-
----
-
 <!--
 **4288-yerim/4288-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
