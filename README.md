@@ -38,6 +38,7 @@ React · Express · Oracle | 개인 프로젝트
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4288-yerim&layout=compact&theme=radical)
 
+---
 
 <!--
 **4288-yerim/4288-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
