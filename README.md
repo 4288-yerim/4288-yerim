@@ -22,8 +22,6 @@ Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)
 - 사업자 페이지 및 관리자 페이지 개발
 - AI 챗봇 기능 구현
 
----
-
 📸 [SO:LO - 혼자인 시간을 위한 SNS](https://github.com/4288-yerim/SO-LO)
 
 React · Express · Oracle | 개인 프로젝트  
