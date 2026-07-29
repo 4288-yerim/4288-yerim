@@ -67,4 +67,4 @@ Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)
 ## 📩 Contact
 - Email : yryr4288@gmail.com
 - Phone : 010-2414-0196
-- Portfolio : ![포트폴리오 바로가기](https://drive.google.com/file/d/1fnQX6PJPFLFUaN4qYXI7QskQARccjt_r/view?usp=drive_link)
+- Portfolio : [포트폴리오 바로가기](https://drive.google.com/file/d/1fnQX6PJPFLFUaN4qYXI7QskQARccjt_r/view?usp=drive_link)
