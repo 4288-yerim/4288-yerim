@@ -36,6 +36,17 @@
 ---
 
 ## 📁 Project
+📸 [SO:LO - 혼자인 시간을 위한 SNS](https://github.com/4288-yerim/SO-LO)
+
+React · Express · Oracle | 개인 프로젝트  
+혼자만의 순간과 취향을 기록하고 공유하는 SNS 서비스
+
+- 기획과 설계 및 전체 기능 개발
+- JWT 인증 정보 기반 사용자 활동 이력을 활용한 피드 추천 기능 구현
+- 카카오맵 API 기반 장소 공유 기능 구현
+
+---
+
 🐾 [유니펫 - 반려동물 통합 플랫폼](https://github.com/Medo-skb/UNIPET)
 
 Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)  
@@ -45,17 +56,6 @@ Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)
 - 메인 페이지 추천/인기 업체 및 상품 조회, 검색 기능
 - 홈페이지 UI, 전반적인 CSS 적용
 - 사업자 페이지 및 관리자 페이지 개발
-
----
-
-📸 [SO:LO - 혼자인 시간을 위한 SNS](https://github.com/4288-yerim/SO-LO)
-
-React · Express · Oracle | 개인 프로젝트  
-혼자만의 순간과 취향을 기록하고 공유하는 SNS 서비스
-
-- 기획과 설계 및 전체 기능 개발
-- JWT 인증 정보 기반 사용자 활동 이력을 활용한 피드 추천 기능 구현
-- 카카오맵 API 기반 장소 공유 기능 구현
 
 ---
 
