@@ -17,11 +17,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -29,6 +24,11 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
 ### Database & Cloud
 
