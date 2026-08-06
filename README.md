@@ -70,6 +70,6 @@ React · Express · Oracle | 개인 프로젝트
 
 --- 
 
-## 📩 Contact
+## 📩 연락처
 - Email : yryr4288@gmail.com
 - Phone : 010-2414-0196
