@@ -58,4 +58,4 @@ React · Express · Oracle | 개인 프로젝트
 ## 📩 Contact
 - Email : yryr4288@gmail.com
 - Phone : 010-2414-0196
-- Portfolio : [포트폴리오 바로가기](https://drive.google.com/file/d/1zwCBecE4vzft8Y5PavByxJudou7WlFNt/view?usp=sharing)
+- Portfolio : [포트폴리오 바로가기](https://drive.google.com/file/d/1sHowKR6qEX7O55U3Mte2qWixyg4r3v20/view?usp=sharing)
