@@ -42,7 +42,6 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
