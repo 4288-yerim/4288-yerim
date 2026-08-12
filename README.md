@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 기술 경험
+## 🛠 기술 스택
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
