@@ -45,7 +45,7 @@
 
 🐾 [유니펫 - 반려동물 통합 플랫폼](https://github.com/Medo-skb/UNIPET)
 
-Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)  
+Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인, 팀원)  
 반려동물 예약, 쇼핑, 커뮤니티 기능을 제공하는 통합 웹 서비스  
 
 담당 역할 (팀원)
@@ -68,7 +68,7 @@ React · Express · Oracle | 개인 프로젝트
 
 🎓 [따iT - AI를 활용한 자격증 학습 관리 앱](https://github.com/4288-yerim/flutterteam03)
 
-Flutter · Firebase | 팀 프로젝트 (4인)  
+Flutter · Firebase | 팀 프로젝트 (4인, 팀장)  
 자격증 일정을 확인하고 목표 자격증 학습을 AI가 도와주는 안드로이드 앱 서비스
 
 담당 역할 (팀장)
