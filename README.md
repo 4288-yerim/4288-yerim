@@ -45,7 +45,7 @@
 
 🐾 [유니펫 - 반려동물 통합 플랫폼](https://github.com/Medo-skb/UNIPET)
 
-Spring Boot · MySQL · Vue3 | 팀 프로젝트 (5인)  
+Spring Boot · MySQL · Vue.js | 팀 프로젝트 (5인)  
 반려동물 예약, 쇼핑, 커뮤니티 기능을 제공하는 통합 웹 서비스  
 
 담당 역할 (팀원)
